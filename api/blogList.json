@@ -1,0 +1,20 @@
+{
+	"success": true,
+	"data": [{
+			"id": 1,
+			"title": "Front End Developer Interview Questions: 5 Big Things to Know",
+			"desc": "Writen by Nathan Eddy | What front end developer interview questions do you need to prepare for? That’s an excellent question, made somewhat difficult to answer by the complex and shifting nature of the job itself..."
+		}, {
+			"id": 2,
+			"title": "Front End Developer Interview Questions: 5 Big Things to Know",
+			"desc": "Writen by Nathan Eddy | What front end developer interview questions do you need to prepare for? That’s an excellent question, made somewhat difficult to answer by the complex and shifting nature of the job itself..."
+		}, {
+			"id": 3,
+			"title": "Front End Developer Interview Questions: 5 Big Things to Know",
+			"desc": "Writen by Nathan Eddy | What front end developer interview questions do you need to prepare for? That’s an excellent question, made somewhat difficult to answer by the complex and shifting nature of the job itself..."
+		}, {
+			"id": 4,
+			"title": "Front End Developer Interview Questions: 5 Big Things to Know",
+			"desc": "Writen by Nathan Eddy | What front end developer interview questions do you need to prepare for? That’s an excellent question, made somewhat difficult to answer by the complex and shifting nature of the job itself..."
+		}]
+}
